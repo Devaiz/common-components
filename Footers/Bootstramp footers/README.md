@@ -1,0 +1,1 @@
+Bootstramp style sticky footers. Added color for footer and content part.
